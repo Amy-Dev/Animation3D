@@ -90,7 +90,7 @@
 
  .purchase {
      margin-top: 3rem;
-     transition: all 0.75s ease-out;
+     
  }
 
  .purchase button {
@@ -103,5 +103,6 @@
     cursor: pointer;
     border-radius: 30px;
     font-weight: bolder;
-    margin-bottom: 4rem;;
+    margin-bottom: 4rem;
+    transition: all 0.75s ease-out;
  }
